@@ -19,9 +19,6 @@ Development with Denny Louis
 Okshadow by OkFocus
 
 
-NO FUCKS GIVEN
-
-
 -->
 
 <html>
@@ -38,35 +35,31 @@ NO FUCKS GIVEN
   </head>
   <body>
     <div class="bodytext">
-      {% for file in markdown_files %}
-        {% if file.path == '/bodytext.md' %}
-          {{ file.contents | markdown }}
-        {% endif %}
-      {% endfor %}
+		<p><a href="mailto:info@masakimiwa.com">Masaki Miwa</a> is a Graphic Designer primarily working within the arts and culture sector. Designing for projects that <a class="image" alt="images/initiate.gif">initiate</a>, <a class="image" alt="images/question.gif">question</a>, <a class="image" alt="images/reflect.gif">reflect</a>, <a class="image" alt="images/curate.gif">curate</a>, <a class="image" alt="images/deconstruct.gif">deconstruct</a>, <a class="image" alt="images/disseminate.gif">disseminate</a>, <a class="image" alt="images/challenge.gif">challenge</a> and <a class="image" alt="images/experiment.gif">experiment</a> with books, publications, visual identities, exhibitions, objects, print and web-based projects for forward thinking individuals, institutions to organisations.</p>
+		
+		<p>Projects include working with, and for Åbäke, Arielle Berman, Booksfrom&shy;thefuture, Christian Duff, Condozine, Federico Antonini, Francis Upritchard, Herrick Gallery, Housework(Press), Joseph Townshend, Marta Jakubowski, MIMOCA Museum of Contemporary Art, Simon Browne, and University of the Arts London, Central Saint Martins.</p>
+		
+		<p>Selected works are stocked at ICA London, Rijksmuseum Research Library, Central Saint Martins Library, Draw Down Books, Good Press Gallery, &: christophe daviet-thery, and Tipitin.</p>
+		
+		<p>Co-founded <a class="image" alt="images/1_Zyxt.png" href="http://zyxt.info" target="_blank">Zyxt</a>, a graphic design studio and independent publisher that forms partnerships with forward thinking artists, designers, curators, publishers, cultural organisations and institutions. Formed with graphic designer <a class="image" alt="images/2_YingTongTan.png" href="http://yingtongtan.com" target="_blank">Ying Tong Tan</a>.</p>
     </div>
     
     <div class="contact">
-	    {% for file in markdown_files %}
-	    	{% if file.path == '/contact.md' %}
-				{{ file.contents | markdown }}
-			{% endif %}
-		{% endfor %}	    
+		<p><a href="mailto:info@masakimiwa.com">EMAIL</a></p>
+		<p><a href="http://masakimiwa.tumblr.com/" target="_blank">TUMBLR</a></p>
+		<p><a href="https://www.instagram.com/masaki.miwa" target="_blank">INSTAGRAM</a></p>
+		<p><a href="https://twitter.com/masakimiwa" target="_blank">TWITTER</a></p>    
     </div>
     
     <div class="footer">
-	    {% for file in markdown_files %}
-	    	{% if file.path == '/footer.md' %}
-				{{ file.contents | markdown }}
-			{% endif %}
-		{% endfor %}	    
+		<p>For all inquires, projects, collaborations or to view selected works, please contact <a href="mailto:info@masakimiwa.com">info[at]masakimiwa.com</a></p>
+		<p>All images are © the artists/designers.</p>
+		
+		<p><a class="image" alt="images/1_NFG.gif">N.F.G</a></p>   
     </div>
 
     <div class="headline">
-	    {% for file in markdown_files %}
-	    	{% if file.path == '/headline.md' %}
-				{{ file.contents | markdown }}
-			{% endif %}
-		{% endfor %}	    
+		<p>うちの猫が鷹に食われたんだ</p>    
     </div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>

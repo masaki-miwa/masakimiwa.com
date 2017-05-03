@@ -1,0 +1,6 @@
+title: Masaki Miwa – Graphic Designer
+theme: html_deprecated
+subdomain: www-masakimiwa-com
+domain: www.masakimiwa.com
+badge: show
+description: Masaki Miwa is a Graphic Designer primarily working within the arts and culture sector. Designing books, publications, catalogues, visual identities, exhibitions, objects, print and web-based projects for forward thinking individuals, institutions to organisations. Co-founded Zyxt with Ying Tong Tan.

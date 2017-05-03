@@ -1,0 +1,119 @@
+<!doctype html>
+<!--
+	
+
+.```./(    )\    /(      .'(  .-,.-.,-.
+)_,-,  )   \ (_.' /  ,') \  ) ) ,, ,. (
+    / / _   )  _.'  (  '/  /  \( |(  )/
+   / `-` )  / /      )     )     ) \   
+  (     (  (  \     (  .'\ \     \ (   
+   ).',,'   ).'      )/   )/      )/   
+                                       
+
+Graphic Design Studio & Independent Publisher
+zyxt.info                                  
+
+
+Credits:
+Development with Denny Louis
+Okshadow by OkFocus
+
+
+NO FUCKS GIVEN
+
+
+-->
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="keywords" content="Graphic Designer, Graphic Design, Design, Art Direction, Publication, Typeface, Typography, Art, Exhibition, Visual Identity, Website, Studio, Zyxt, Central Saint Martins, Independent Publisher">
+        <meta name="googlebot" content="{{ site.description }}">
+    <title>Masaki Miwa – Graphic Designer</title>
+    <meta name="description" content="{{ site.description }}">
+    <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0"/>
+    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="stylesheet" href="_sv_custom.css">
+  </head>
+  <body>
+    <div class="bodytext">
+      {% for file in markdown_files %}
+        {% if file.path == '/bodytext.md' %}
+          {{ file.contents | markdown }}
+        {% endif %}
+      {% endfor %}
+    </div>
+    
+    <div class="contact">
+	    {% for file in markdown_files %}
+	    	{% if file.path == '/contact.md' %}
+				{{ file.contents | markdown }}
+			{% endif %}
+		{% endfor %}	    
+    </div>
+    
+    <div class="footer">
+	    {% for file in markdown_files %}
+	    	{% if file.path == '/footer.md' %}
+				{{ file.contents | markdown }}
+			{% endif %}
+		{% endfor %}	    
+    </div>
+
+    <div class="headline">
+	    {% for file in markdown_files %}
+	    	{% if file.path == '/headline.md' %}
+				{{ file.contents | markdown }}
+			{% endif %}
+		{% endfor %}	    
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="_sv_custom.js"></script>
+    <script src="okshadow.js"></script>
+    
+    <script>
+    $(function() {
+    	$('.headline p').okshadow({
+			color: 'black',
+			textShadow: true,
+			transparent: true,
+			xMax: 0,
+			yMax: 0,
+			fuzzMin: 1,
+			fuzzMax: 9000,
+			fuzz: 10
+		});
+	})
+	</script>
+	
+
+<div class="hidden">
+	<script type="text/javascript">
+			var images = new Array()
+			function preload() {
+				for (i = 0; i < preload.arguments.length; i++) {
+					images[i] = new Image()
+					images[i].src = preload.arguments[i]
+				}
+			}
+			preload(
+				"images/1_NFG.gif",
+				"images/1_Zyxt.png",
+				"images/1-Edited_W2560px.jpg",
+				"images/2_W2560px.jpg",
+				"images/2_YingTongTan.png",
+				"images/3_W2560px.jpg",
+				"images/4-Edited_W2560px.jpg",
+				"images/5_Pruitt-Igoe-Sequence_Trouble-in-Utopia_1981.gif",
+				"images/6_Edited_W2560px.jpg",
+				"images/7_Shia%20LeBeouf%202.GIF",
+				"images/8_W2560px.jpg"
+			)
+	</script>
+</div>
+
+
+  </body>
+</html>

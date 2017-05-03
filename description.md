@@ -1,1 +1,0 @@
-Masaki Miwa is a Graphic Designer primarily working within the arts and culture sector. Co-founded Zyxt, a graphic design studio and independent publisher that forms partnerships with forward thinking artists, designers, curators, publishers, cultural organisations and institutions. Formed with graphic designer Ying Tong Tan.

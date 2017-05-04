@@ -4,12 +4,15 @@ $(function() {
   const headlines = [
     'THE MEW BJÖRK LIMES',
     'NO FUCKS GIVEN',
-    'METAMODERNISM',
+    'META MODERNISM',
     'LOW-DOWN [LIVE]',
-    '壱クールのレギュラーよりも、一回の伝説',
+    'LET’S MAKE THIS THE GREATEST 10 MIN OF OUR LIVES',
+    '瞬間、心、重ねて',
     'がけっぷち',
-    '深夜２時５０分以降に暴れ出す',
-    'うちの猫が鷹に食われたんだ'
+    '深夜二時五十分以降に暴れ出す',
+    'うちの猫が鷹に食われたんだ',
+    '五月病',
+    '積読'
   ];
   const randomHeadline = headlines[Math.floor(Math.random() * headlines.length)];
   $('.headline p').text(randomHeadline);

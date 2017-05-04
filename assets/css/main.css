@@ -1,0 +1,139 @@
+@font-face {
+	font-family: "Helvetica Neue Condensed Bold";
+  src: url("../fonts/HelveticaNeue-CondensedBold.woff") format('woff'),
+			 url("../fonts/HelveticaNeue-CondensedBold.ttf") format('truetype');
+}
+
+html, body { margin: 0; }
+html { font-size: 18px; }
+body {
+	font-family: "Helvetica Neue Condensed Bold", Helvetica, "Arial Narrow", Arial, sans-serif;
+	padding: 10px 15px 15px;
+}
+
+* { box-sizing: border-box; }
+*::selection {
+	color: white;
+	background: none;
+}
+
+a {
+	color: #000000;
+	text-decoration: none;
+	cursor: pointer;
+}
+a:hover { color: #0000FF; }
+
+/* Image Overlay */
+.overlay {
+	display: block;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	text-align: center;
+	position: fixed;
+	align-items: center;
+  justify-content: center;
+	padding: 100px;
+	pointer-events: none;
+	z-index: -10;
+}
+.overlay img {
+	visibility: hidden;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate3d(-50%, -50%, 0);
+	max-width: 100%;
+	max-height: 70%;
+	margin: auto;
+}
+.overlay img.visible { visibility: visible;}
+
+/* Main Text */
+.bodytext {
+	font-size: 2.813em;
+  margin: 0px 0px 0.8em 0px;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.bodytext p {
+  line-height: 1;
+  margin-top: 0;
+  margin-bottom: 0.8em;
+  hyphens: manual;
+}
+.bodytext a {
+	font-family: Times, "Times New Roman", serif;
+	font-weight: 100;
+}
+
+/* Contact */
+.contact {
+  width: 100%;
+  text-align: center;
+  margin: 0px 0px 2em 0px;
+  position: relative;
+	font-size: 2.25em;
+}
+.contact ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.contact li {
+  line-height: 1.15;
+	text-transform: uppercase;
+	margin: 0;
+
+}
+
+/* Footer */
+.footer {
+  max-width: 100%;
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  position: relative;
+}
+.footer p {
+	font-size: 1em;
+  line-height: 1;
+	margin: 0;
+}
+
+/* Headline text */
+.headline {
+  padding: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+	width: 100%;
+	height: 100%;
+  z-index: -100;
+	pointer-events: none;
+}
+.headline p {
+  text-align: center;
+	font-weight: 900;
+	font-stretch: condensed;
+	font-size: 12em;
+	line-height: 1em;
+	margin: 0;
+	hyphens: auto;
+}
+
+
+
+@media (max-width: 736px) {
+	.headline { display:none; }
+	.overlay {
+		padding: 0 30px 0 30px;
+		z-index: -10;
+	}
+}

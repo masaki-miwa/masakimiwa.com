@@ -2,20 +2,20 @@ $(function() {
 
   // Display random headline
   const headlines = [
+    'WEBSITE, 2017',
     'THE MEW BJÖRK LIMES',
     'NO FUCKS GIVEN',
     'META MODERNISM',
     'LOW-DOWN [LIVE]',
     'BNSWPOTO¹',
-    '0% – 100%',
+    '0%–100%',
     'PCTTU I, II, III',
     'DSP (CSP); S1, E38',
     '瞬間、心、重ねて',
-    'がけっぷち',
     '深夜二時五十分以降に暴れ出す',
     'うちの猫が鷹に食われたんだ',
     '五月病',
-    '初手竜舞',
+    '初手、竜舞',
     '積読'
   ];
   const randomHeadline = headlines[Math.floor(Math.random() * headlines.length)];

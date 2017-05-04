@@ -35,7 +35,7 @@ a:hover { color: #0000FF; }
 	position: fixed;
 	align-items: center;
   justify-content: center;
-	padding: 100px 50px;
+	padding: 50px 100px;
 	pointer-events: none;
 	z-index: -10;
 }

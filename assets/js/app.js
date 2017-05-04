@@ -7,7 +7,6 @@ $(function() {
     'META MODERNISM',
     'LOW-DOWN [LIVE]',
     'GREATEST HITS',
-    'WE ARE DESIGNING FROM 1ST CONVERSATION',
     '瞬間、心、重ねて',
     'がけっぷち',
     '深夜二時五十分以降に暴れ出す',

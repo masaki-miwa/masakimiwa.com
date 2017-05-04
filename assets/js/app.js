@@ -6,7 +6,8 @@ $(function() {
     'NO FUCKS GIVEN',
     'META MODERNISM',
     'LOW-DOWN [LIVE]',
-    'LET’S MAKE THIS THE GREATEST 10 MIN OF OUR LIVES',
+    'GREATEST HITS',
+    'SUITEN FÜR VIOLONCELLO SOLO'
     '瞬間、心、重ねて',
     'がけっぷち',
     '深夜二時五十分以降に暴れ出す',

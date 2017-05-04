@@ -7,7 +7,7 @@ $(function() {
     'META MODERNISM',
     'LOW-DOWN [LIVE]',
     'GREATEST HITS',
-    'SUITEN FÜR VIOLONCELLO SOLO'
+    'SUITEN FÜR VIOLONCELLO SOLO',
     '瞬間、心、重ねて',
     'がけっぷち',
     '深夜二時五十分以降に暴れ出す',

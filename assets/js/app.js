@@ -10,7 +10,7 @@ $(function() {
     'BNSWPOTO¹',
     '0%–100%',
     'PCTTU I, II, III',
-    'DSP (CSP); S1, E38',
+    'DSP(CSP); S1,E38',
     'Kodomofication',
     '瞬間、心、重ねて',
     '深夜二時五十分以降に暴れ出す',
@@ -18,7 +18,10 @@ $(function() {
     '五月病',
     '初手、竜舞',
     'おおーっ！？情報がいっぱいだ！！',
-    '積読'
+    '積読',
+    'つけ麺じゃない！！',
+    'つけ麺かもしれない',
+    '完'
   ];
   const randomHeadline = headlines[Math.floor(Math.random() * headlines.length)];
   $('.headline p').text(randomHeadline);

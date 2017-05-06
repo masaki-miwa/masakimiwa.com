@@ -11,7 +11,7 @@ $(function() {
     '0%–100%',
     'PCTTU I, II, III',
     'DSP(CSP); S1,E38',
-    'Kodomofication',
+    'KODOMOFICATION',
     'COME AGAIN?',
     '瞬間、心、重ねて',
     '深夜二時五十分以降に暴れ出す',

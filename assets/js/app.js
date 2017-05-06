@@ -12,6 +12,7 @@ $(function() {
     'PCTTU I, II, III',
     'DSP(CSP); S1,E38',
     'Kodomofication',
+    'COME AGAIN?',
     '瞬間、心、重ねて',
     '深夜二時五十分以降に暴れ出す',
     'うちの猫が鷹に食われたんだ',

@@ -24,6 +24,8 @@ $(function() {
     'つけ麺じゃないっ！！',
     'つけ麺かもしれない',
     'もやもや',
+    'ドォォン！',
+    'てへぺろ',
     '完'
   ];
   const randomHeadline = headlines[Math.floor(Math.random() * headlines.length)];

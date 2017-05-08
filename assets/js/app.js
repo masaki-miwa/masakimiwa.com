@@ -10,7 +10,7 @@ $(function() {
     'BNSWPOTO¹',
     '0%–100%',
     'PCTTU I, II, III',
-    'DSP(CSP); S1,E38',
+    'SEASON 1; EPISODE 38',
     'KODOMOFICATION',
     'COME AGAIN?',
     'COME TOGETHER?',

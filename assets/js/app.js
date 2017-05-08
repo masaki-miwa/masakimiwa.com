@@ -15,6 +15,7 @@ $(function() {
     'COME AGAIN?',
     'COME TOGETHER?',
     'BUT DOES IT FLOAT?',
+    'MY SHOES ARE BLACK',
     '瞬間、心、重ねて',
     '深夜二時五十分以降に暴れ出す',
     'うちの猫が鷹に食われたんだ',

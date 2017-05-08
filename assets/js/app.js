@@ -34,6 +34,7 @@ $(function() {
     '罪は三つある',
     '2秒だ',
     'てへぺろ',
+    '青眼の金髪',
     '完'
   ];
   const randomHeadline = headlines[Math.floor(Math.random() * headlines.length)];

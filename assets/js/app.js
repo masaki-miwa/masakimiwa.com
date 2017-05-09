@@ -16,6 +16,9 @@ $(function() {
     'COME TOGETHER?',
     'BUT DOES IT FLOAT?',
     'MY SHOES ARE BLACK',
+    'BED LIGHT DISTRICT',
+    'HOVER',
+    'BOYS DON&rsquo;T POO, GIRLS DON&rsquo;T PEE',
     '瞬間、心、重ねて',
     '深夜二時五十分以降に暴れ出す',
     '恋はいつでもハリケーン',
@@ -35,6 +38,10 @@ $(function() {
     '2秒だ',
     'てへぺろ',
     '青眼の金髪',
+    '多重人格バイリンガル',
+    'グババシュッ！',
+    'はぐれモン',
+    'ピグモン',
     '完'
   ];
   const randomHeadline = headlines[Math.floor(Math.random() * headlines.length)];

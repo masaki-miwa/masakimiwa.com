@@ -11,7 +11,7 @@ $(function() {
     '0%–100%, 2016',
     'PCTTU I, II, III',
     'SEASON 1; EPISODE 38',
-    '6PM PARADIGM SHIFT',
+    '9–5 PARADIGM SHIFT',
     'COME AGAIN?',
     'COME TOGETHER?',
     'BUT DOES IT FLOAT?',

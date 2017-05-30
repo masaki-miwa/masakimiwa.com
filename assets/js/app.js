@@ -43,6 +43,11 @@ $(function() {
     'グババシュッ！',
     'はぐれモン',
     'ピグモン',
+    'バルタン星人',
+    '聴覚、視覚、△',
+    '前篇',
+    '後篇',
+    '恐怖のルート８７',
     '完'
   ];
   const randomHeadline = headlines[Math.floor(Math.random() * headlines.length)];

@@ -14,11 +14,9 @@ $(function() {
     '9–5 PARADIGM SHIFT',
     'COME AGAIN?',
     'COME TOGETHER?',
-    'BUT DOES IT FLOAT?',
+    'BUT IT DOES FLOAT?',
     'MY SHOES ARE BLACK',
     'BED LIGHT DISTRICT',
-    'HOVER',
-    'BOYS DON’T POOH, GIRLS DON’T P',
     'COFFEE & CIGARETTES',
     '瞬間、心、重ねて',
     '深夜二時五十分以降に暴れ出す',
@@ -49,6 +47,9 @@ $(function() {
     '前篇',
     '後篇',
     '恐怖のルート８７',
+    '匆々',
+    '御自愛専一にて',
+    'とて',
     '完'
   ];
   const randomHeadline = headlines[Math.floor(Math.random() * headlines.length)];

@@ -18,6 +18,7 @@ $(function() {
     'MY SHOES ARE BLACK',
     'BED LIGHT DISTRICT',
     'COFFEE & CIGARETTES',
+    'DOORNOGRAPHY',
     '瞬間、心、重ねて',
     '深夜二時五十分以降に暴れ出す',
     '恋はいつでもハリケーン',

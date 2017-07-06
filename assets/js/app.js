@@ -4,7 +4,6 @@ $(function() {
   const headlines = [
     'WEBSITE, 2017',
     'THE MEW BJÖRK LIMES',
-    'NO FUCKS GIVEN',
     'META MODERNISM',
     'LOW-DOWN [LIVE]',
     'BNSWPOTO¹, 2016',
@@ -18,7 +17,6 @@ $(function() {
     'MY SHOES ARE BLACK',
     'BED LIGHT DISTRICT',
     'COFFEE & CIGARETTES',
-    'DOORNOGRAPHY',
     '瞬間、心、重ねて',
     '深夜二時五十分以降に暴れ出す',
     '恋はいつでもハリケーン',
@@ -39,7 +37,6 @@ $(function() {
     '２秒だ',
     'てへぺろ',
     '青眼の金髪',
-    '多重人格バイリンガル',
     'グババシュッ！',
     'はぐれモン',
     'ピグモン',
@@ -51,6 +48,14 @@ $(function() {
     '匆々',
     '御自愛専一にて',
     'とて',
+    'よーーーーーーーーーし',
+    'ねもうす',
+    'いいにほひ。',
+    '歩くクレヨン',
+    '１０４点',
+    'チーズな',
+    'バターな',
+    'ここを俺の縄張りとす！',
     '完'
   ];
   const randomHeadline = headlines[Math.floor(Math.random() * headlines.length)];

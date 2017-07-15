@@ -56,6 +56,7 @@ $(function() {
     'チーズな',
     'バターな',
     'ここを俺の縄張りとす！',
+    '運ぶ、戦う、増える、そして食べられる',
     '完'
   ];
   const randomHeadline = headlines[Math.floor(Math.random() * headlines.length)];

@@ -59,6 +59,7 @@ $(function() {
     'ここを俺の縄張りとす！',
     '運ぶ、戦う、増える、そして食べられる',
     'フラワウの花は悪意の香り',
+    'レディ＆オールドマン',
     '完'
   ];
   const randomHeadline = headlines[Math.floor(Math.random() * headlines.length)];

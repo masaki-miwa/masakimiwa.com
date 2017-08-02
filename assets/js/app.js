@@ -71,6 +71,7 @@ $(function() {
     color: 'black',
     textShadow: true,
     transparent: true,
+    downwards: true,
     xMax: 0,
     yMax: 0,
     fuzzMin: 1,

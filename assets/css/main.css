@@ -141,6 +141,10 @@ a:hover { color: #0000FF; }
 	}
 	
 	.bodytext {
-		font-size: 30px;
+		font-size: 40px;
+	}
+	
+	.contact {
+		font-size: 40px;
 	}
 }

@@ -75,7 +75,7 @@ $(function() {
     xMax: 0,
     yMax: 0,
     fuzzMin: 1,
-    fuzzMax: 9000,
+    fuzzMax: 50,
     fuzz: 10
   });
 

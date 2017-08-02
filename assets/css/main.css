@@ -132,7 +132,7 @@ a:hover { color: #0000FF; }
 
 @media (max-width: 736px) {
 	.headline p {
-		font-size: 20px;
+		font-size: 80px;
 	}
 	.overlay {
 		padding: 0 30px 0 30px;

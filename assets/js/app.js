@@ -25,6 +25,7 @@ $(function() {
     'ACID REDACTION',
     '(FEARFUL SCREAM)',
     'KRITISCH GRAPHIT DESIGN',
+    'COUGH PRINT PARIS',
     'wwwwww',
     '瞬間、心、重ねて',
     '深夜二時五十分以降に暴れ出す',

@@ -20,6 +20,7 @@ $(function() {
     'I AM NOT WEARING ANYTHING',
     'BAE',
     'LET IT HAPPEN',
+    'AUDIO, VIDEO, DISCO',
     'wwwwww',
     '瞬間、心、重ねて',
     '深夜二時五十分以降に暴れ出す',

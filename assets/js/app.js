@@ -69,6 +69,8 @@ $(function() {
     'フラワウの花は悪意の香り',
     'レディ＆オールドマン',
     '物々',
+    'ここは おまえの ばしょだ',
+    'ハロー そしてグッバイ',
     '完'
   ];
   const randomHeadline = headlines[Math.floor(Math.random() * headlines.length)];

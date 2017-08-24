@@ -26,6 +26,8 @@ $(function() {
     '(FEARFUL SCREAM)',
     'KRITISCH GRAPHIT DESIGN',
     'COUGH PRINT PARIS',
+    'EAU DE PARFUM',
+    'EAU DE TOILETTE',
     'wwwwww',
     '瞬間、心、重ねて',
     '深夜二時五十分以降に暴れ出す',

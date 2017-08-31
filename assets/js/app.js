@@ -76,6 +76,8 @@ $(function() {
     'ボーイミーツガール',
     'ハンドメイドのバンドエイド',
     'ハロー そしてグッバイ',
+    'ドキュメンタル',
+    '笑ってはいけない',
     '完'
   ];
   const randomHeadline = headlines[Math.floor(Math.random() * headlines.length)];

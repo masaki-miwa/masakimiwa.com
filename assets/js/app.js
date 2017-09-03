@@ -78,6 +78,7 @@ $(function() {
     'ハロー そしてグッバイ',
     'ドキュメンタル',
     '笑ってはいけない',
+    '美的スポーツ',
     '完'
   ];
   const randomHeadline = headlines[Math.floor(Math.random() * headlines.length)];

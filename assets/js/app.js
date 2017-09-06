@@ -28,6 +28,7 @@ $(function() {
     'COUGH PRINT PARIS',
     'EAU DE PARFUM',
     'EAU DE TOILETTE',
+    '2001 SPACE ODDITY',
     'wwwwww',
     '瞬間、心、重ねて',
     '深夜二時五十分以降に暴れ出す',

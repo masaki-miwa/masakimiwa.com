@@ -106,7 +106,7 @@ a:hover { color: #0000FF; }
 
 /* Headline text */
 .headline {
-  padding: 0;
+  padding: 15px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -132,7 +132,7 @@ a:hover { color: #0000FF; }
 
 @media (max-width: 736px) {
 	.headline p {
-		font-size: 20vw;
+		font-size: 22.5vw;
 	}
 	
 	.overlay {

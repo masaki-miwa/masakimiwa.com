@@ -122,7 +122,7 @@ a:hover { color: #0000FF; }
   text-align: center;
 	font-weight: 900;
 	font-stretch: condensed;
-	font-size: 12em;
+	font-size: 15vw;
 	line-height: 1em;
 	margin: 0;
 	hyphens: auto;
@@ -132,7 +132,7 @@ a:hover { color: #0000FF; }
 
 @media (max-width: 736px) {
 	.headline p {
-		font-size: 80px;
+		font-size: 20vw;
 	}
 	
 	.overlay {

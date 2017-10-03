@@ -128,11 +128,15 @@ a:hover { color: #0000FF; }
 	hyphens: auto;
 }
 
-
+@media (max-width: 736px) and (orientation: landscape) {
+	.headline p {
+		font-size: 10vw;
+	}
+}
 
 @media (max-width: 736px) {
 	.headline p {
-		font-size: 21vw;
+		font-size: 20vw;
 	}
 	
 	.overlay {

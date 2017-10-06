@@ -82,6 +82,7 @@ $(function() {
     'ドキュメンタル',
     '笑ってはいけない',
     '美的スポーツ',
+    'インターネットヒーロー',
     '完',
   ];
   const randomHeadline = headlines[Math.floor(Math.random() * headlines.length)];

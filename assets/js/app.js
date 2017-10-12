@@ -80,8 +80,8 @@ $(function() {
     'Walmart’s tram law',
     'Warsaw was raw',
     'Wet sanitary rat in a stew',
-    'Won’t lovers revolt now?'
-    'Wonton? Not now'
+    'Won’t lovers revolt now?',
+    'Wonton? Not now',
     'Zeus was deified, saw Suez',    
     'wwwwww',
     '瞬間、心、重ねて',

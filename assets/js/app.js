@@ -31,6 +31,7 @@ $(function() {
     'EAU DE TOILETTE',
     '2001 SPACE ODDITY',
     'FETAMENTS',
+    'WE ARE ALL SUPER, NERDY, CHILL',
     'wwwwww',
     '瞬間、心、重ねて',
     '深夜二時五十分以降に暴れ出す',

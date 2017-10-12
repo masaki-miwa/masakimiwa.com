@@ -123,6 +123,7 @@ a:hover { color: #0000FF; }
 	font-weight: 900;
 	font-stretch: condensed;
 	font-size: 15vw;
+	text-transform: uppercase;
 	line-height: 1em;
 	margin: 0;
 	hyphens: auto;

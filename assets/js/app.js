@@ -4,7 +4,7 @@ $(function() {
   const headlines = [
     'JACK, LETS MAKE THIS THE GREATEST 10MIN OF OUR LIVES',
     'Hey man, hes ragging on your cord',
-    'Woh, woh my rope came loose',
+    'Woah, woah my rope came loose',
     'WEBSITE, 2017',
     'THE MEW BJÖRK LIMES',
     'META MODERNISM',

@@ -138,6 +138,8 @@ $(function() {
     '笑ってはいけない',
     '美的スポーツ',
     'インターネットヒーロー',
+    'チーズ・フォンデュ',
+    '抹茶プーリン',
     '完',
   ];
   const randomHeadline = headlines[Math.floor(Math.random() * headlines.length)];

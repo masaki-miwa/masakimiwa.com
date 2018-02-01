@@ -3,7 +3,8 @@ $(function() {
   // Display random headline
   const headlines = [
     'JACK, LETS MAKE THIS THE GREATEST 10MIN OF OUR LIVES',
-    'Yanke East',
+    '#ad',
+    '#insertadhere',
     'Hey man, hes ragging on your cord',
     'Woah, woah my rope came loose',
     'WEBSITE, 2017',

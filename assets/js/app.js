@@ -124,6 +124,7 @@ $(function() {
     '喜いで染まるまで',
     '平和の和を',
     '不協和音（Discord）',
+    'i 罠 B wiθ U'
 
   ];
   const randomHeadline = headlines[Math.floor(Math.random() * headlines.length)];

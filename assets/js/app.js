@@ -32,6 +32,7 @@ $(function() {
     'FETAMENTS',
     'WE ARE ALL SUPER, NERDY, CHILL',
     'PALINDROME SYNDROME',
+    'JADE PALACE COLLECTIVE PRESENTS: YAT PIT',
     'A CAR, A MAN, A MARACA',
     'A lad named E. Mandala',
     'A nut for a jar of tuna',

@@ -79,6 +79,10 @@ a:hover { color: #0000FF; }
   position: relative;
 	font-size: 1.8em;
 }
+.contact p {
+  line-height: 1;
+}
+
 .contact a {
 	font-family: Times, "Times New Roman", serif;
 	font-weight: 100;
@@ -92,7 +96,6 @@ a:hover { color: #0000FF; }
 .contact li {
   line-height: 1.15;
 	margin: 0;
- 	font-family: "Helvetica Neue Condensed Bold", Helvetica, "Arial Narrow", Arial, sans-serif;
 	font-weight: 100;
 }
 

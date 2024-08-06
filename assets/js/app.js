@@ -2,6 +2,7 @@ $(function() {
 
   // Display random headline
   const headlines = [  
+    'ダンシングガール',  
     '本能',  
     '群青日和',  
     '群青日和',  
